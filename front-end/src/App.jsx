@@ -4,7 +4,9 @@ import { MenuUnfoldOutlined, MenuFoldOutlined } from '@ant-design/icons';
 import Sidebar from './components/Sidebar.jsx';
 import CustomHeader from './components/Header.jsx';
 import './App.css';
-
+import SideContent from './components/SideContent.jsx';
+import MainContent from './components/MainContent.jsx'; 
+import { Flex } from 'antd'; 
 
 const { Sider, Header, Content } = Layout;
 
