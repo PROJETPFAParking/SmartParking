@@ -31,15 +31,20 @@ The Smart Parking System is built using modern web technologies. Our tech stack 
 
 ## Web Application
 
-![Login](C:\Users\Lenovo\Desktop\SmartParking\screen\login.jpeg)
-![Dashboard Dark Mode](C:\Users\Lenovo\Desktop\SmartParking\screen\dashboard.jpeg)
+![Login](screen/login.jpeg)
+![Dashboard Dark Mode](screen/dashboard.jpeg)
 ![Dashboard White Mode](screen/dashboard-white.jpeg)
-![User](C:\Users\Lenovo\Desktop\SmartParking\screen\userr.jpeg)
-![Localisation](C:\Users\Lenovo\Desktop\SmartParking\screen\localisation.jpeg)
-![Transaction](C:\Users\Lenovo\Desktop\SmartParking\screen\transaction.jpeg)
-![Admin](C:\Users\Lenovo\Desktop\SmartParking\screen\adminn.jpeg)
-![]()
-![]()
-![]()
-![]()
-![]()
+![User](screen/userr.jpeg)
+![Localisation](screen/localisation.jpeg)
+![Transaction](screen/transaction.jpeg)
+![Admin](screen/adminn.jpeg)
+![CCTV](screen/cctv.jpeg)
+
+## Mobile Application
+
+![Landing Page](screen/1.png)
+![Localisation](screen/2.png)
+![Slot](screen/3.png)
+![Book Slot](screen/4.png)
+![Position Du slot](screen/5-position sur map.png)
+![Direction](screen/6-traget to parking.png)
