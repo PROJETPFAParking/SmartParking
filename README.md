@@ -145,3 +145,9 @@ et de revoir les enregistrements des caméras de surveillance.**
 ![Book Slot](screen/4.png)
 ![Position Du slot](screen/5-position.png)
 ![Direction](screen/6-traget.png)
+
+## Contributors
+- Youssef Chahid ([GitHub](https://github.com/Chahid5))
+- Salma Daigham ([GitHub](https://github.com/salmasd5))
+- Imane Tahri ([GitHub](https://github.com/imanetahri123))
+- Zakaria zinaoui ([Researchgate](https://github.com/zakariaZinaOui))
