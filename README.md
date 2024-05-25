@@ -19,4 +19,27 @@ To reserve a parking slot:
 3. Enter Your Licence Number and click on "Book Now" to finalize your reservation.
 4. While Exiting the parking Release the slot from the dashboard
 
+## Technology Stack
 
+The Smart Parking System is built using modern web technologies. Our tech stack includes:
+
+- **Front-end:** React for the admin site, and flutter for the mobile application.
+- **Back-end:** Express.js for server operations and API endpoints.
+- **Database:** MongoDB for data storage.
+- **API Communication:** RESTful APIs for frontend and backend communication.
+- **IOT Camera:** Python,jupyter.
+
+## Web Application
+
+![Login](C:\Users\Lenovo\Desktop\SmartParking\screen\login.jpeg)
+![Dashboard Dark Mode](C:\Users\Lenovo\Desktop\SmartParking\screen\dashboard.jpeg)
+![Dashboard White Mode](screen/dashboard-white.jpeg)
+![User](C:\Users\Lenovo\Desktop\SmartParking\screen\userr.jpeg)
+![Localisation](C:\Users\Lenovo\Desktop\SmartParking\screen\localisation.jpeg)
+![Transaction](C:\Users\Lenovo\Desktop\SmartParking\screen\transaction.jpeg)
+![Admin](C:\Users\Lenovo\Desktop\SmartParking\screen\adminn.jpeg)
+![]()
+![]()
+![]()
+![]()
+![]()

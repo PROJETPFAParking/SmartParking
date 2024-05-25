@@ -2,8 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "license": "MIT",
-  "author": "Balaji Prakasam",
+  "author": "youssef chahid",
   "description": "Modern Full Stack Admin Dashboard using MERN",
   "keywords": [
     "reactjs",
