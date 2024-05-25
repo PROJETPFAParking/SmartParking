@@ -139,9 +139,9 @@ et de revoir les enregistrements des caméras de surveillance.**
 
 ## Mobile Application
 
-![Landing Page](screen/1.png)<br>
-![Localisation](screen/2.png)<br>
-![Slot](screen/3.png)<br>
-![Book Slot](screen/4.png)<br>
-![Position Du slot](screen/5-position.png)<br>
-![Direction](screen/6-traget to parking.png)
+![Landing Page](screen/1.png)
+![Localisation](screen/2.png)
+![Slot](screen/3.png)
+![Book Slot](screen/4.png)
+![Position Du slot](screen/5-position.png)
+![Direction](screen/6-traget.png)
