@@ -29,44 +29,119 @@ The Smart Parking System is built using modern web technologies. Our tech stack 
 - **API Communication:** RESTful APIs for frontend and backend communication.
 - **IOT Camera:** Python,jupyter.
 
+## Getting Started
+
+Certainly! Here are step-by-step instructions to set up and run your project locally:
+
+### Prerequisites:
+
+ **Node Version Manager (NVM):**
+   - Install NVM from [github.com/nvm-sh/nvm](https://github.com/nvm-sh/nvm).
+   - Use NVM to install Node.js version 20.22.0: `nvm install 20.22.0`.
+
+   ### Frontend Setup:
+
+1. **Install Node.js and Angular:**
+   - Open a new terminal for the frontend project.
+   - Ensure NVM is using Node.js version 20.22.0: `nvm use 20.22.0`.
+  
+
+2. **Install Frontend Dependencies:**
+   - Run the following commands in the frontend project folder:
+     ```bash
+     npm install
+     ```
+
+   - If you encounter errors during installation, use the following command:
+     ```bash
+     npm install --save --legacy-peer-deps
+     ```
+
+3. **Run Frontend:**
+   - After installing dependencies, start the Angular development server:
+     ```bash
+     npm start
+     ```
+
+
+Now, your full-stack project should be up and running locally. If you encounter any issues during setup, check the console logs for error messages and ensure that all dependencies and prerequisites are correctly installed.
+
 ## Web Application
 
 ![Login](screen/login.jpeg)
+<br>
+<br>
 
-
-L’interface de connexion est conçue pour être simple et efficace, permettant aux utilisateurs de s’authentifier rapidement et en toute sécurité.
-
+**L’interface de connexion est conçue pour être simple et efficace, permettant aux utilisateurs de s’authentifier rapidement et en toute sécurité.**
+<br>
+<br>
 
 ![Dashboard Dark Mode](screen/dashboard.jpeg)
+<br>
+<br>
 
-
-Le tableau de bord en version noire offre une alternative visuelle, avec un thème sombre
-adapté aux préférences des utilisateurs et améliorant la lisibilité dans des environnements
-peu éclairés.
-
+**Le tableau de bord en version noire offre une alternative visuelle, avec un thème sombre adapté aux préférences des utilisateurs et améliorant la lisibilité dans des environnements
+peu éclairés.**
+<br>
+<br>
 
 ![Dashboard White Mode](screen/dashboard-white.jpeg)
+<br>
+<br>
 
-
-Le tableau de bord en version blanche fournit un aperçu des données clés et des statistiques importantes, présenté de manière claire et concise.
-
+**Le tableau de bord en version blanche fournit un aperçu des données clés et des statistiques importantes, présenté de manière claire et concise.**
+<br>
+<br>
 
 ![User](screen/userr.jpeg)
+<br>
+<br>
+
+**L’interface utilisateur est conçue pour être intuitive et conviviale, permettant aux utilisa￾teurs de visualiser et de modifier leurs informations personnelles, ainsi que d’accéder aux diverses fonctionnalités de l’application.**
+<br>
+<br>
+
 ![Localisation](screen/localisation.jpeg)
+<br>
+<br>
 
-L’interface de liste des parkings affiche une liste des parkings disponibles, avec des informations clés telles que l’adresse, la disponibilité des places, les tarifs horaires, et la
-distance par rapport à l’utilisateur actuel.
-
+**L’interface de liste des parkings affiche une liste des parkings disponibles, avec des informations clés telles que l’adresse, la disponibilité des places, les tarifs horaires, et la distance par rapport à l’utilisateur actuel.**
+<br>
+<br>
 
 ![Transaction](screen/transaction.jpeg)
+<br>
+<br>
+
+**L’interface des transactions est conçue pour offrir une vue détaillée et claire de toutes les
+transactions effectuées par l’utilisateur.**
+<br>
+<br>
+
 ![Admin](screen/adminn.jpeg)
+
+<br>
+<br>
+
+**Une interface d’administration, souvent désignée sous le terme "admin", est une interface utilisateur conçue spécifiquement pour les administrateurs ou les gestionnaires d’un système, d’une application ou d’une plateforme en ligne .**
+<br>
+<br>
+
 ![CCTV](screen/cctv.jpeg)
+<br>
+<br>
+
+**L’interface CCTV est conçue pour permettre aux utilisateurs de surveiller en temps réel
+et de revoir les enregistrements des caméras de surveillance.**
+
+<br>
+<br>
 
 ## Mobile Application
 
-![Landing Page](screen/1.png)
-![Localisation](screen/2.png)
-![Slot](screen/3.png)
-![Book Slot](screen/4.png)
-![Position Du slot](screen/5-position.png)
+![Landing Page](screen/1.png)<br>
+![Localisation](screen/2.png)<br>
+![Slot](screen/3.png)<br>
+![Book Slot](screen/4.png)<br>
+![Position Du slot](screen/5-position.png)<br>
 ![Direction](screen/6-traget to parking.png)
