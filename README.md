@@ -150,4 +150,4 @@ et de revoir les enregistrements des caméras de surveillance.**
 - Youssef Chahid ([GitHub](https://github.com/Chahid5))
 - Salma Daigham ([GitHub](https://github.com/salmasd5))
 - Imane Tahri ([GitHub](https://github.com/imanetahri123))
-- Zakaria zinaoui ([Researchgate](https://github.com/zakariaZinaOui))
+- Zakaria zinaoui ([GitHub](https://github.com/zakariaZinaOui))
