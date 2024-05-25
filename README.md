@@ -32,10 +32,32 @@ The Smart Parking System is built using modern web technologies. Our tech stack 
 ## Web Application
 
 ![Login](screen/login.jpeg)
+
+
+L’interface de connexion est conçue pour être simple et efficace, permettant aux utilisateurs de s’authentifier rapidement et en toute sécurité.
+
+
 ![Dashboard Dark Mode](screen/dashboard.jpeg)
+
+
+Le tableau de bord en version noire offre une alternative visuelle, avec un thème sombre
+adapté aux préférences des utilisateurs et améliorant la lisibilité dans des environnements
+peu éclairés.
+
+
 ![Dashboard White Mode](screen/dashboard-white.jpeg)
+
+
+Le tableau de bord en version blanche fournit un aperçu des données clés et des statistiques importantes, présenté de manière claire et concise.
+
+
 ![User](screen/userr.jpeg)
 ![Localisation](screen/localisation.jpeg)
+
+L’interface de liste des parkings affiche une liste des parkings disponibles, avec des informations clés telles que l’adresse, la disponibilité des places, les tarifs horaires, et la
+distance par rapport à l’utilisateur actuel.
+
+
 ![Transaction](screen/transaction.jpeg)
 ![Admin](screen/adminn.jpeg)
 ![CCTV](screen/cctv.jpeg)
@@ -46,5 +68,5 @@ The Smart Parking System is built using modern web technologies. Our tech stack 
 ![Localisation](screen/2.png)
 ![Slot](screen/3.png)
 ![Book Slot](screen/4.png)
-![Position Du slot](screen/5-position sur map.png)
+![Position Du slot](screen/5-position.png)
 ![Direction](screen/6-traget to parking.png)
